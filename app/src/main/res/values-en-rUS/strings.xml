@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="email">Type your e-mail</string>
+    <string name="senha">Type your password</string>
+    <string name="btenviar">To enter</string>
+    <string name="bemvindo">Welcome to Head Health</string>
+    <string name="tex1">This Application aims to alert locations and hours of physical activity in public places.</string>
+    <string name="tex2">This Application will also broadcast live to the public who will not be able to move to the location of the activity</string>
+    <string name="btcontinua">To be continued</string>
+
+    <string name="tex3">choose the best option for your regular practice</string>
+    <string name="bt2">To enter</string>
+    <string name="bt">To enter</string>
+    <string name="tex4">live streaming</string>
+    <string name="tex5">Activity Location</string>
+
+</resources>

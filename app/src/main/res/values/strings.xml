@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AVmobile</string>
+    <string name="logo">Head Health</string>
+    <string name="email">Digite seu E-mail</string>
+    <string name="senha">Digite sua Senha</string>
+    <string name="btenviar">Entrar</string>
+    <string name="bemvindo">Seja Bem Vindo a Head Health</string>
+    <string name="tex1">Esse Aplicativo tem como objetivo alertar locais e horario de atividade fisica em lugares Publico.</string>
+    <string name="tex2">Esse Aplicativo também vai transmitir live para o publico que não vai pode se locomover até o local da atividade</string>
+    <string name="btcontinua">Continua</string>
+
+    <string name="tex3">escolha a mehor opcão para sua pratica regular</string>
+    <string name="bt2">Entrar</string>
+    <string name="bt">Entrar</string>
+    <string name="tex4">Transmissão de Live</string>
+    <string name="tex5">Local da Atividade</string>
+
+
+
+</resources>
